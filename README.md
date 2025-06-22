@@ -22,7 +22,7 @@ The game eliminates common letters in two names, counts the remaining characters
 ## 🎮 How It Works
 
 1. Input two names.
-2. Common letters (including duplicates) are cancelled out.
+2. Common letters (including duplicates) are canceled out.
 3. The number of remaining characters is used to cycle through FLAMES.
 4. The last letter remaining is your result.
 
@@ -35,8 +35,7 @@ The game eliminates common letters in two names, counts the remaining characters
 ---
 
 ## 🚀 Getting Started
-
-### Clone the repository
+Clone the repository
 
 ```bash
 git clone https://github.com/anchal2611/flames.git
